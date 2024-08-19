@@ -1,0 +1,1 @@
+The topic is Library. The documentation describes API for this system. It includes CRUD operations with different collections, pagination, filtrations, caching (where it is necessary), and authentication with JWT.
